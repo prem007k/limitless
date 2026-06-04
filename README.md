@@ -2,8 +2,6 @@
 
 A full-stack **real-time algorithmic trading strategy platform** with visual workflow builder, market replay engine, and advanced portfolio simulation.
 
-![Limitless](https://via.placeholder.com/800x400/0a0a0a/00ff9f?text=LIMITLESS)
-
 ## ✨ Features
 
 - **Visual Strategy Builder** - Drag & drop node-based strategy creation (React Flow)
